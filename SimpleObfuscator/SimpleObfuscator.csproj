@@ -46,6 +46,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Core\Protections\AddRandoms\RandomOutlinedMethods.cs" />
+    <Compile Include="Core\Protections\Renamer\Analyzer\EventDefAnalyzer.cs" />
+    <Compile Include="Core\Protections\Renamer\Analyzer\FieldDefAnalyzer.cs" />
+    <Compile Include="Core\Protections\Renamer\Analyzer\iAnalyze.cs" />
+    <Compile Include="Core\Protections\Renamer\Analyzer\MethodDefAnalyzer.cs" />
+    <Compile Include="Core\Protections\Renamer\Analyzer\TypeDefAnalyzer.cs" />
+    <Compile Include="Core\Protections\Renamer\Renamer.cs" />
+    <Compile Include="Core\Utils\Randoms.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
