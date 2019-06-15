@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/NotAccursed/SimpleObfuscator/wiki">What is SimpleObfuscator?</a>&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/NotAccursed/SimpleObfuscator/wiki/Home--Simple-Obfuscator">What is SimpleObfuscator?</a>&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/NotAccursed/SimpleObfuscator/issues">Contribution guide</a>&nbsp;&nbsp;&nbsp;
     <a href="https://mwsoftobf.xyz/">Get a premium obfuscator</a>&nbsp;&nbsp;&nbsp;
     <a href="https://twitter.com/NAccursed">Twitter</a>&nbsp;&nbsp;&nbsp;
