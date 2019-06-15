@@ -30,7 +30,7 @@
 
 # 📜 Why do you need SimpleObfuscator ?
 
-Here you write explanations and also advantages of using an obfuscator :p
+You can learn from it!
 
 # 💥 What does it do ?
 
