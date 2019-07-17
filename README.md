@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="350" height="350" src="https://i.imgur.com/U5eX8ER.png" alt="SimpleObfuscator">
+    <img width="350" height="350" src="https://i.imgur.com/kzh7lti.jpg" alt="SimpleObfuscator">
     <br>
     <br>
     <br>
