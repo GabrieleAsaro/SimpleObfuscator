@@ -5,8 +5,11 @@ using System.Linq;
 
 namespace SimpleObfuscator.Core.Protections.AddRandoms
 {
-	class RandomOutlinedMethods : Randoms
+	internal class RandomOutlinedMethods : Randoms
 	{
+		/// <summary>
+		/// We are executing the method 'RandomOutlinedMethods'. RandomOutlinedMethods will add random methods to Types.
+		/// </summary>
 		public static void Execute(ModuleDef module)
 		{
 			foreach (var type in module.Types)
@@ -21,7 +24,10 @@ namespace SimpleObfuscator.Core.Protections.AddRandoms
 			}
 		}
 
-		static MethodDef CreateReturnMethodDef(object value, MethodDef source_method)
+		/// <summary>
+		/// We are making the return value for the randomly generated method. The return value can be an Integer, a Double or a String.
+		/// </summary>
+		private static MethodDef CreateReturnMethodDef(object value, MethodDef source_method)
 		{
 			CorLibTypeSig corlib = null;
 

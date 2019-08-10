@@ -4,13 +4,15 @@ using SimpleObfuscator.Core.Utils;
 
 namespace SimpleObfuscator.Core.Protections
 {
-	class Renamer : Randoms
+	internal class Renamer : Randoms
 	{
+		/// <summary>
+		/// We are executing the method 'Renamer'. The Renamer will rename name of { Types, Methods, Parameters, Properties, Fields }.
+		/// </summary>
 		public static void Execute(ModuleDefMD module)
 		{
 			foreach (var type in module.Types)
 			{
-
 				if (CanRename(type))
 					type.Name = RandomString();
 
@@ -34,6 +36,10 @@ namespace SimpleObfuscator.Core.Protections
 			}
 		}
 
+		/// <summary>
+		/// We are checking with some Analyzers if it is possible to modify a determinate { TypeDef, MethodDef, EventDef, FieldDef }.
+		/// return analyze.Execute(obj); || We are returning the execution of the renamer after checking if it is possible to modify a determinate { TypeDef, MethodDef, EventDef, FieldDef }.
+		/// </summary>
 		public static bool CanRename(object obj)
 		{
 			iAnalyze analyze = null;
