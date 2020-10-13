@@ -30,15 +30,15 @@
 
 # 📜 Why do you need SimpleObfuscator ?
 
-You can learn from it! The code it's really simple and clean!
+You can learn from it! The code is really simple and clean!
 
 # 💥 What does it do ?
 
-- [x] Support all .NET Frameworks
-- [x] Support all .NET Core 
-- [x] Protect names of methods
-- [x] Protect names of classes
-- [x] Add junk methods
+- [x] Supports all .NET Frameworks
+- [x] Supports all .NET Core 
+- [x] Protects names of methods
+- [x] Protects names of classes
+- [x] Adds junk methods
 
 # 📚 Credits 
 
