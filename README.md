@@ -9,7 +9,7 @@
     <a href="https://github.com/NotAccursed/SimpleObfuscator/wiki/Home--Simple-Obfuscator">What is SimpleObfuscator?</a>&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/NotAccursed/SimpleObfuscator/issues">Contribution guide</a>&nbsp;&nbsp;&nbsp;
     <a href="https://cyphor.net">Get a premium obfuscator</a>&nbsp;&nbsp;&nbsp;
-    <a href="https://twitter.com/NAccursed">Twitter</a>&nbsp;&nbsp;&nbsp;
+    <a href="https://twitter.com/ga_asaro">Twitter</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
@@ -21,7 +21,7 @@
 <br>
 
 <p align="center">
-  <sub>The simple obfuscator. Built with ❤︎ by <a href="https://twitter.com/NAccursed">NotAccursed</a></sub>
+  <sub>The simple obfuscator. Built with ❤︎ by <a href="https://twitter.com/ga_asaro">NotAccursed</a></sub>
 </p>
 <br>
 
