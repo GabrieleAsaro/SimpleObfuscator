@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-    <b>Follow <a href="https://twitter.com/NAccursed">my Twitter account</a> for updates on new protection additions.</b>
+    <b>Follow <a href="https://twitter.com/ga_asaro">my Twitter account</a> for updates on new protection additions.</b>
 </p>
 
 <br>
