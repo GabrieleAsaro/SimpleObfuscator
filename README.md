@@ -1,30 +1,3 @@
-<p align="center">
-    <img width="469" height="282" src="https://i.imgur.com/Jwyz6d9.png" alt="SimpleObfuscator">
-    <br>
-    <br>
-    <br>
-</p>
-
-<p align="center">
-    <a href="https://github.com/NotAccursed/SimpleObfuscator/wiki/Home--Simple-Obfuscator">What is SimpleObfuscator?</a>&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/NotAccursed/SimpleObfuscator/issues">Contribution guide</a>&nbsp;&nbsp;&nbsp;
-    <a href="https://cyphor.net">Get a premium obfuscator</a>&nbsp;&nbsp;&nbsp;
-    <a href="https://twitter.com/ga_asaro">Twitter</a>&nbsp;&nbsp;&nbsp;
-</p>
-
-<br>
-
-<p align="center">
-    <b>Follow <a href="https://twitter.com/ga_asaro">my Twitter account</a> for updates on new protection additions.</b>
-</p>
-
-<br>
-
-<p align="center">
-  <sub>The simple obfuscator. Built with ❤︎ by <a href="https://twitter.com/ga_asaro">NotAccursed</a></sub>
-</p>
-<br>
-
 # SimpleObfuscator [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
 
